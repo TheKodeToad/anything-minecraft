@@ -144,8 +144,8 @@ Discontinued
   Discontinued
 
 - [Enderstone](https://github.com/SanderGielisse/Enderstone) - Enderstone is a server software written from the ground up in Java.  
-Version: 1.8  
-Discontinued
+  Version: 1.8  
+  Discontinued
 
 - [Erlcraft](https://github.com/ScottBrooks/Erlcraft) - Erlcraft is an erlang Minecraft server implementation.  
   Version: Unknown  
@@ -172,8 +172,8 @@ Discontinued
   Currently Active
 
 - [FlamePaper](https://www.mc-market.org/resources/19660) - FlamePaper is a 1.8.8 fork of PaperSpigot aiming to improve security and performance to make it stable as possible.  
-Version: 1.8.8  
-Currently Active
+  Version: 1.8.8  
+  Currently Active
 
 - [flying squid](https://github.com/PrismarineJS/flying-squid) - flying squid is a server built-in JavaScript. It supports digging/placing blocks, World Generation and more.  
   Version: 1.8 - 1.16  
@@ -196,8 +196,8 @@ Currently Active
   Discontinued
 
 - [Granite](https://github.com/jamierocks/Granite)  
-Version: ???  
-Discontinued
+  Version: ???  
+  Discontinued
 
 - [GuardSpigot](https://www.mc-market.org/resources/14497/) - GuardSpigot is a 1.8.8 $99 premium TacoSpigot fork with features like custom knockback editing, lag machine detection, and a bunch of features you can toggle like mob AI for performance gain/gameplay change.  
   Version: 1.8.8  
@@ -272,8 +272,8 @@ Discontinued
   Discontinued
 
 - [MCPP](https://github.com/RobertLeahy/MCPP) - MCPP is a modular, multi-threaded, event driven server implementation written in C++.  
-Version: Unknown  
-Discontinued
+  Version: Unknown  
+  Discontinued
 
 - [MineCase](https://github.com/dotnetGame/MineCase) - MineCase is made in C# and designed to create a high-performance server. Different chunks are managed on different servers so that more players can join in and play in the same world.  
   Version: 1.15.2  
@@ -288,8 +288,8 @@ Discontinued
   Discontinued
 
 - [Mineqwaft](https://github.com/dparnell/mineqwaft) - A server implementation written in lisp.  
-Version: Unknown  
-Discontinued
+  Version: Unknown  
+  Discontinued
 
 - [Mineserver](https://github.com/fador/mineserver/) - Mineserver is a server software built from the ground up in C++.  
   Version: 1.8.9  
@@ -300,13 +300,8 @@ Discontinued
   Discontinued
 
 - [MineStom](https://github.com/Minestom/Minestom) - MineStorm is a server building library allowing servers to be built from the group up easily. It removes features like the server understanding what a chest is, which allows HUGE performance increases for minigame servers as they may not need that feature. Every feature can be added back. Due to this, the development would take longer and would not be suitable for survival servers.  
-<<<<<<< HEAD
   Version: 1.16 - 1.17.1  
   Currently Active
-=======
-Version: 1.16 - 1.17.1  
-Currently Active
->>>>>>> 5f28da1 (updated all event submissions)
 
 - [mSpigot](https://www.mc-market.org/resources/6864/)\* - Another premium TacoSpigot fork with promises of improved TNT and knockback aimed at PvP and Factions servers.  
   Version: 1.8.8  
@@ -349,8 +344,8 @@ Currently Active
   Currently Active
 
 - [NovaSpigot](https://www.mc-market.org/threads/663767) - NovaSpigot is a 1.8.8 fork of spigot aiming towards PvP servers.  
-Version: 1.8.8  
-Currently Active
+  Version: 1.8.8  
+  Currently Active
 
 - [nylium](https://github.com/dskprt/nylium) - nylium is a server written in C#. It has a priority on performance.
   Version: 1.16.4 - 1.16.5
@@ -397,12 +392,12 @@ Currently Active
   Discontinued
 
 - [PopupMC](https://github.com/PopupMC/Server) - A fork of PaperMC for 1.15.2.  
-Version: 1.15.2  
-Discontinued
+  Version: 1.15.2  
+  Discontinued
 
 - [Prismarine Standalone](https://github.com/Thinkofname/Prismarine-Standalone) - Prismarine is a small Minecraft server that aims to do the minimum required for a basic Minecraft server.  
-Version: Unknown  
-Discontinued
+  Version: Unknown  
+  Discontinued
 
 - [Project-Rainbow](https://ci.codecrafter47.de/job/Rainbow/) - Project-Rainbow was an attempt at overthrowing Bukkit with a new platform, but as we can tell that didn't work.  
   Version: 1.13.2  
@@ -453,8 +448,8 @@ Discontinued
   Discontinued
 
 - [Reflex](https://github.com/Jckf/Reflx) - Reflex is a server wrapper that attaches to the server jar.  
-Version: ???  
-Discontinued
+  Version: ???  
+  Discontinued
 
 - [RocketMC](https://www.mc-market.org/resources/13898/) - A 1.15.2 Tuinity fork with a built-in monitoring system, plugin manager (enabling, disabling, command info), and general performance optimizations.  
   Version: 1.15.2  
@@ -477,8 +472,8 @@ Discontinued
   Discontinued
 
 - [SinkMC](https://github.com/infinitec0der/Sink-MC)  
-Version: Unknown  
-Discontinued
+  Version: Unknown  
+  Discontinued
 
 - [SMP Server Wrapper](https://www.minecraftforum.net/forums/support/server-support-and/1891854-smp-server-wrapper-compatable-with-new-version-of#c1) - SMP Server Wrapper was a
   modification for the Minecraft server jar created only 2 days after the first version with multiplayer was released. It contained features focused on SMP servers.
@@ -493,23 +488,21 @@ Discontinued
   Version: Unknown  
   Discontinued
 
-<<<<<<< HEAD
 - [SpaceDeltaSpigot](https://www.mc-market.org/resources/18121)\* - SpaceDeltaSpigot is a spigot fork aiming to provide better performance for server owners.  
   Version: 1.8.8  
   Discontinued
-=======
+
 - [Snowstorm](https://github.com/SnowstormTeam/Snowstorm) - Snowstorm is a modular Minecraft server software written in Java.  
-Version: Unknown  
-Discontinued
+  Version: Unknown  
+  Discontinued
 
-- [Spacecraft GT](https://github.com/SpaceManiac/Spacecraft-GT) - Spacecraft is a survival multiplayer rendition of Spacecraft, the SpaceManiac Minecraft Server.  It was written in C#.  
-Version: Unknown  
-Discontinued
->>>>>>> 5f28da1 (updated all event submissions)
+- [Spacecraft GT](https://github.com/SpaceManiac/Spacecraft-GT) - Spacecraft is a survival multiplayer rendition of Spacecraft, the SpaceManiac Minecraft Server. It was written in C#.  
+  Version: Unknown  
+  Discontinued
 
-- [SpaceDeltaSpigot](https://www.mc-market.org/resources/18121)* - SpaceDeltaSpigot is a spigot fork aiming to provide better performance for server owners.  
-Version: 1.8.8  
-Discontinued
+- [SpaceDeltaSpigot](https://www.mc-market.org/resources/18121)\* - SpaceDeltaSpigot is a spigot fork aiming to provide better performance for server owners.  
+  Version: 1.8.8  
+  Discontinued
 
 - [SpigotMC](https://www.spigotmc.org/) - The original fork of Bukkit. Spigot has improved performance vs CraftBukkit, still widely used. It's a recommended alternative if for some reason you don't want to use PaperMC.  
   Version: 1.4.6 - 1.17.1  
@@ -536,8 +529,8 @@ Discontinued
   Currently Active
 
 - [SSSpigot2](https://www.mc-market.org/resources/14122/) - SSSigot2 is a server software based on Patina. It adds some performance features like toggling mob AI and reduced chunk loading.  
-Version: 1.17.1  
-Currently Active
+  Version: 1.17.1  
+  Currently Active
 
 - [SSSpigot](https://www.mc-market.org/resources/14122/) - A 1.16.5 Paper fork with multi-thread support, useless code removal, some general optimizations, and tracking metrics disabled.  
   Version: 1.16.5  
@@ -548,8 +541,8 @@ Currently Active
   Currently Active
 
 - [Starfield](https://github.com/StarfieldMC/Starfield) - Starfield is a C# server implementation in 1.16.5.  
-Version: 1.16.4 - 1.16.5  
-Currently Active
+  Version: 1.16.4 - 1.16.5  
+  Currently Active
 
 - [StellarSpigot](https://www.mc-market.org/threads/523827/) - A 1.8.8 TacoSpigot fork with a huge assortment of features and optimizations aimed at Factions servers.  
   Version: 1.8.8  
@@ -581,13 +574,8 @@ Currently Active
   Discontinued
 
 - [Tuinity](https://github.com/Spottedleaf/Tuinity) - PaperMC fork aimed at improving stability and performance at high player counts. Now merged into PaperMC as the issues that made SpottenLeaf create Tuinity have been resolved.  
-<<<<<<< HEAD
   Version: 1.13.2 - 1.17.1  
   Discontinued
-=======
-Version: 1.13.2 - 1.17.1  
-Discontinued
->>>>>>> 5f28da1 (updated all event submissions)
 
 - [VoltaneSpigot](https://www.mc-market.org/threads/571429/) - A 1.8.8 based TacoSpigot fork with built-in 1.7 - 1.16 client support with multi-thread support, custom knockback editing, discord server integration, and a lot of factions based features.  
   Version: 1.8.8  
@@ -597,19 +585,9 @@ Discontinued
   Version: Unknown  
   Discontinued
 
-<<<<<<< HEAD
 - [wSpigot](https://www.mc-market.org/resources/6874/)\* - wSpigot is a 1.7.10 Paper fork with custom knockback profiles, built-in 1.8 client support, and a lot of HCF based features/optimizations.  
   Version: 1.7.10  
   Currently Active
-=======
-- [Wolf In a Bukkit](https://github.com/rowtn/wolf-in-a-bukkit) - Wolf in a Bukkit was an attempt to rewrite Bukkit under a new licence.  
-Version: Unknown  
-Discontinued
-
-- [wSpigot](https://www.mc-market.org/resources/6874/)* - wSpigot is a 1.7.10 Paper fork with custom knockback profiles, built-in 1.8 client support, and a lot of HCF based features/optimizations.  
-Version: 1.7.10  
-Currently Active
->>>>>>> 5f28da1 (updated all event submissions)
 
 - [XMC](https://github.com/Xanamor/XMC) - XMC was a server written in C# aiming to provide a survival experience.  
   Version: Unknown  
@@ -628,13 +606,8 @@ Currently Active
   Discontinued
 
 - zSpigot - A 1.7.10 Paper fork with huge optimizations, completely custom knockback editing, built-in server benchmarking, and more PvP based features. Ironically, despite it originally being a premium resource the only way to get it now is through a leaks website due to the creator leaking resources.  
-<<<<<<< HEAD
   Version: 1.7.10  
   Discontinued
-=======
-Version: 1.7.10  
-Discontinued
->>>>>>> 6b6dd8c (Update server_software.md)
 
 ### Modded Server JARS
 
@@ -680,13 +653,8 @@ Discontinued
   Discontinued
 
 - [MCPC+](https://ci.md-5.net/job/Cauldron/) - MCPC+ was a 1.2.5 to 1.7.10 Bukkit/Forge hybrid, the first of its kind. It was also known as Cauldron.  
-<<<<<<< HEAD
   Version: Unknown
   Discontinued
-=======
-Version: Unknown
-Discontinued
->>>>>>> 6b6dd8c (Update server_software.md)
 
 - [KCauldron](https://github.com/djoveryde/KCauldron) - KCauldron is a fork of MCPC+ using Spigot instead of CraftBukkit.  
   Version: 1.7.10  
@@ -820,8 +788,8 @@ Discontinued
   Currently Active
 
 - [JettPack](https://gitlab.com/Titaniumtown/JettPack) - JettPack is an experimental airplane fork with optimizations. This includes but is not limited to multithreaded entities and memory optimizations.  
-Version: 1.17.1  
-Currently Active
+  Version: 1.17.1  
+  Currently Active
 
 - [jsmc](https://github.com/deoxxa/jsmc) - jsmc is a server for 1.4.2 written in javascript.  
   Version: 1.4.2  
