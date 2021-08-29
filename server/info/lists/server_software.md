@@ -243,14 +243,9 @@ Discontinued
   Version: 1.8  
   Currently Active
 
-- [LightSpigot 1.8.8](https://www.mc-market.org/resources/16933/) - A free 1.8.8 Spigot fork focused on adding some optimizations and features for HCF servers, like ender pearls teleporting through slabs.  
-<<<<<<< HEAD
+- [LightSpigot 1.8.8](https://www.mc-market.org/resources/16933/) - A free 1.8.8 Spigot fork focused on adding some optimizations and features for HCF servers, like ender pearls teleporting through slabs.
   Version: 1.8.8  
   Currently Active
-=======
-Version: 1.8.8  
-Currently Active
->>>>>>> 5f28da1 (updated all event submissions)
 
 - [LightSpigot 1.16.5](https://www.mc-market.org/resources/17753/) - A 1.16.5 Spigot fork with some spawner / general performance optimizations and custom knockback editing.  
   Version: 1.16.5  
@@ -552,6 +547,10 @@ Currently Active
   Version: 1.16.4 - 1.16.5  
   Currently Active
 
+- [Starfield](https://github.com/StarfieldMC/Starfield) - Starfield is a C# server implementation in 1.16.5.  
+Version: 1.16.4 - 1.16.5  
+Currently Active
+
 - [StellarSpigot](https://www.mc-market.org/threads/523827/) - A 1.8.8 TacoSpigot fork with a huge assortment of features and optimizations aimed at Factions servers.  
   Version: 1.8.8  
   Currently Active
@@ -629,8 +628,13 @@ Currently Active
   Discontinued
 
 - zSpigot - A 1.7.10 Paper fork with huge optimizations, completely custom knockback editing, built-in server benchmarking, and more PvP based features. Ironically, despite it originally being a premium resource the only way to get it now is through a leaks website due to the creator leaking resources.  
+<<<<<<< HEAD
   Version: 1.7.10  
   Discontinued
+=======
+Version: 1.7.10  
+Discontinued
+>>>>>>> 6b6dd8c (Update server_software.md)
 
 ### Modded Server JARS
 
@@ -676,8 +680,13 @@ Currently Active
   Discontinued
 
 - [MCPC+](https://ci.md-5.net/job/Cauldron/) - MCPC+ was a 1.2.5 to 1.7.10 Bukkit/Forge hybrid, the first of its kind. It was also known as Cauldron.  
+<<<<<<< HEAD
   Version: Unknown
   Discontinued
+=======
+Version: Unknown
+Discontinued
+>>>>>>> 6b6dd8c (Update server_software.md)
 
 - [KCauldron](https://github.com/djoveryde/KCauldron) - KCauldron is a fork of MCPC+ using Spigot instead of CraftBukkit.  
   Version: 1.7.10  
