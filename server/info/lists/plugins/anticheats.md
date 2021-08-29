@@ -493,11 +493,6 @@ This list of free anti-cheats is sorted alphabetically.
   Rating: Unknown  
   Discontinued
 
-- [FireflyX](https://github.com/Z01wvay/fireflyx)  
-  Version: ???  
-  Rating: ???  
-  Discontinued
-
 - [Flappy Anticheat](https://www.spigotmc.org/resources/92180/)  
   Version: 1.16 - 1.17  
   Rating: 4.38  
@@ -658,11 +653,6 @@ This list of free anti-cheats is sorted alphabetically.
   Rating: Unknown  
   Discontinued
 
-- [laggyfly](https://github.com/steviebeenz/laggyfly)  
-  Version: 1.8.8  
-  Rating: ???  
-  Discontinued
-
 - [LambdaAntiCheat](https://github.com/LambdaTheDev/LambdaAntiCheat)  
   Version: 1.16.4  
   Rating: Unknown  
@@ -674,15 +664,9 @@ This list of free anti-cheats is sorted alphabetically.
   Discontinued
 
 - [LighterAC](https://web.archive.org/web/20200614171941/https://lighterdev.xyz/)  
-  Version: Unknown  
-  Rating: Unknown  
-  Lost
-
-- [LighterAC](https://web.archive.org/web/20200614171941/https://lighterdev.xyz/)  
   Version: ???  
   Rating: ???  
   Lost
-
 - [Link Anti Cheat](https://dev.bukkit.org/projects/link-anti-cheat-0-8)  
   Version: 1.8 - 1.11  
   Rating: Unknown  
@@ -913,11 +897,6 @@ This list of free anti-cheats is sorted alphabetically.
   Rating: Unknown  
   Discontinued
 
-- [NOPE](https://github.com/MSWS/NOPE) - Spigot page was removed  
-  Version: 1.16  
-  Rating: ???  
-  Discontinued
-
 - [OceanAntiCheat](https://www.spigotmc.org/resources/58907/)  
   Version: 1.13  
   Rating: 2.5  
@@ -941,11 +920,6 @@ This list of free anti-cheats is sorted alphabetically.
 - [Overwatch](https://github.com/cumpe/Overwatch)  
   Version: Unknown  
   Rating: Unknown  
-  Discontinued
-
-- [Overwatch](https://github.com/cumpe/Overwatch)  
-  Version: ???  
-  Rating: ???  
   Discontinued
 
 - [Pandora Anticheat](https://github.com/GoDead/Pandora)  
@@ -1076,11 +1050,6 @@ This list of free anti-cheats is sorted alphabetically.
 - [Skincheat.rip](https://github.com/Erouax/SkidCheat.Rip) - Previously premium but abandoned. All that's left.  
   Version: Unknown  
   Rating: Unknown  
-  Discontinued
-
-- [Skincheat.rip](https://github.com/Erouax/SkidCheat.Rip) - Previously premium but abandoned. All that's left.  
-  Version: Unknown  
-  Rating: ???  
   Discontinued
 
 - [Skidusa](https://github.com/SpiritenHasArrived/skidusa-v1)  
@@ -1306,11 +1275,6 @@ This list of free anti-cheats is sorted alphabetically.
 - [WAROUSP](https://forums.skunity.com/resources/%CE%9E-%D0%A8%CE%BB%D0%B3%D1%BB%D1%86%D0%85%CF%81-anti-cheat-%CE%9E.212/) - Skript  
   Version: 1.8  
   Rating: Unknown  
-  Discontinued
-
-- [WAROUSP](https://forums.skunity.com/resources/%CE%9E-%D0%A8%CE%BB%D0%B3%D1%BB%D1%86%D0%85%CF%81-anti-cheat-%CE%9E.212/) - Skript  
-  Version: 1.8  
-  Rating: ???  
   Discontinued
 
 - [WASP AntiCheat](https://www.spigotmc.org/resources/81328) - Skript  
