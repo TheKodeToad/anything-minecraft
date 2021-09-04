@@ -9,8 +9,10 @@ A * means that the developer of that project mass produces them. This leads to a
 Currently Active - Has been updated in the last 6 months.  
 Currently Inactive - Last update was less than a year ago but more than 6 months.  
 Discontinued - No longer maintained  
-Lost - The files to run the server have been lost  
-Found - Previously lost but has been found
+Lost - The files to run the server have been lost, if you have the file please join our discord [here](https://discord.gg/QRjusA2uAZ)  
+Found - Previously lost but has been found  
+Unreleased - Currently unreleased or was never released  
+Private - Made private after being added to this list
 
 ### General:
 
@@ -30,22 +32,29 @@ Currently Active
 Version: 1.7.10  
 Currently Active
 
-- AtomSpigot - A 1.8.8 TacoSpigot fork with crash fixes, async hit detection, and async knockback built it. Currently not available through legal means due to a false ban off of MCMarket.  
+- [AtomSpigot](https://mc-protection.eu/products) - A 1.8.8 TacoSpigot fork with crash fixes, async hit detection, and async knockback built it.  
 Version: 1.8.8  
-Discontinued
+Currently Active
 
 - [AVRCraft](https://github.com/cnlohr/avrcraft) - AVRCraft is a server that is optimized for 8-bit devices made in C.  
 Version: 1.11, 1.15.2 - 1.16.5  
 Currently Inactive
 
-- [Basalt](https://github.com/MyCraftServerMC/BasaltMC) - Basalt is a high-performance Paper fork aiming to add more gameplay and mechanics.
-Version: 1.15.2
+- [Basalt](https://github.com/MyCraftServerMC/BasaltMC) - Basalt is a high-performance Paper fork aiming to add more gameplay and mechanics.  
+Version: 1.15.2  
 Discontinued
 
 - [Basin](https://github.com/basinserver/Basin) - Basin is a server implementation in C. It aims to have amazing performance and be a drop-in replacement.  
 Version: 1.10 - 1.11  
 Discontinued
 
+<<<<<<< HEAD
+- [Basin](https://github.com/basinserver/Basin) - Basin is a server implementation in C. It aims to have amazing performance and be a drop-in replacement.  
+Version: 1.10 - 1.11  
+Discontinued
+
+=======
+>>>>>>> 1dbc59c (Event update (#106))
 - [Bedrock](https://github.com/Adam-/bedrock) - A server software written in C with the goal to fully emulate vanilla Minecraft.  
 Version: 1.7.10  
 Discontinued
@@ -654,9 +663,9 @@ Discontinued
 Version: Unknown  
 Currently Active
 
-- [Aegis](https://polymart.org/resource/31) - A fork of BungeeCord adding many security measures and with built-in anti-bot and anti-VPN. It supports 1.7.x to 1.16.3. The developer is currently falsely banned from MC-Market.  
-Version: 1.7 - 1.16.4  
-Discontinued
+- [Aegis](https://mc-protection.eu/products) - A fork of BungeeCord adding many security measures and with built-in anti-bot and anti-VPN. It supports 1.7.x to 1.17.x. The developer is currently falsely banned from MC-Market.  
+Version: 1.7 - 1.17.1  
+Currently Active
 
 - [Gate](https://github.com/minekube/gate) - A Minecraft Proxy that is written in Go suggesting "scalability, flexibility & excellent server version support".  
 Version: 1.8 - 1.17  
